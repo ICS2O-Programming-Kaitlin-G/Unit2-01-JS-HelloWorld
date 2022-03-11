@@ -1,0 +1,19 @@
+/* Created by: Katie
+* Created on: March 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-01-JS-HelloWorld
+*/
+
+h1 {
+  background-color: mistyrose;
+  color: darkslateblue;
+}
+
+p {
+  background-color: lightgray;
+  color: deeppink;
+}
+
+body {
+  background-color: lightcoral;
+}
